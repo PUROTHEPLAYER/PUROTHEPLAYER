@@ -1,102 +1,102 @@
 It seems nothing in here
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
 the"nothing"
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+   
 that was a joke (the "nothing")
 
 
@@ -146,7 +146,7 @@ that was a joke (the "nothing")
 
 
 
-
+ 
 reading this yet?
 
 
@@ -196,7 +196,7 @@ reading this yet?
 
 
 
-
+ 
 interesting...
 
 
@@ -246,7 +246,7 @@ interesting...
 
 
 
-
+ 
 still here???
 
 
@@ -296,5 +296,5 @@ still here???
 
 
 
-
+ 
 alright, at line 400 there's my favorite thing. you can go and check.
